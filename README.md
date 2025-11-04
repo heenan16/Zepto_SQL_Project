@@ -30,17 +30,6 @@ Dataset Source: Kaggle (Zepto Inventory Dataset)
 
 File Format: CSV
 
-🗂️ Dataset Columns
-Column Name	Description
-Category	Product category (e.g., Grocery, Snacks, Beverages)
-Name	Product name
-MRP	Maximum Retail Price
-DiscountPercent	Discount applied on MRP
-AvailableQuantity	Quantity available in stock
-DiscountedSellingPrice	Final selling price after discount
-WeightInGrams	Product weight
-OutOfStock	Availability status (TRUE/FALSE)
-Quantity	Number of units sold
 
 📊 Key SQL Insights
 
